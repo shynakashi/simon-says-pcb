@@ -61,16 +61,15 @@ simon-says-pcb/
 |-- images/
 |   |-- pcb-layout-component-side.png
 |   `-- pcb-layout-switch-side.png
-`-- gerbers/
-    |-- TopCopper.gbr
-    |-- BottomCopper.gbr
-    |-- TopMask.gbr
-    |-- BottomMask.gbr
-    |-- TopSilk.gbr
-    |-- BottomSilk.gbr
-    |-- BoardOutline.gbr
-    |-- Plated_Through.drl
-    `-- NonPlated_Through.drl
+|-- TopCopper.gbr
+|-- BottomCopper.gbr
+|-- TopMask.gbr
+|-- BottomMask.gbr
+|-- TopSilk.gbr
+|-- BottomSilk.gbr
+|-- BoardOutline.gbr
+|-- Plated_Through.drl
+`-- NonPlated_Through.drl
 ```
 
 ## Manufacturing Files
