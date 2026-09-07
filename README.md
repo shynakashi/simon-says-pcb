@@ -16,9 +16,9 @@ The project gave me practical experience translating a circuit design into worki
 
 ## Fully Functioning Project Demo
 
-The following video shows the final soldered board operating as a complete Simon Says game with the code downloaded onto the microcontroller. Click the preview to watch the demo.
+The following video shows the final soldered board operating as a complete Simon Says game with the code downloaded onto the microcontroller.
 
-[![Watch the fully functioning Simon Says PCB project demo](https://img.youtube.com/vi/KQm7SFQvtsA/maxresdefault.jpg)](https://youtube.com/shorts/KQm7SFQvtsA?feature=share)
+https://github.com/user-attachments/assets/a4792a8a-f61c-4a71-ade9-6ab069d848ee
 
 ## My Work
 
@@ -41,7 +41,7 @@ The Simon Says board includes:
 - Four illuminated game switches
 - Audio output
 - Programming connectivity
-- Supporting resistors, capacitors, and other components
+- Supporting resistors, capacitors, and other discrete components
 
 ## Design and Manufacturing Workflow
 
